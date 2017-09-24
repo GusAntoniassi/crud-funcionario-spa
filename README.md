@@ -12,4 +12,4 @@ Baixe o repositório para a pasta `htdocs` ou `www` de seu servidor Apache.
 
 Execute os comandos SQL do arquivo `webroot/files/banco.sql` no banco de dados.
 
-Configure o usuário e senha do banco de dados em `config/app.php`
+Configure o usuário e senha do banco de dados em `config/app.php`, a partir da linha 225.

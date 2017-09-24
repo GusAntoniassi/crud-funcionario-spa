@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d3a46a5-1fbf-4306-9daf-c4e1ee7149aa" name="Default" comment="" />
+    <list default="true" id="8d3a46a5-1fbf-4306-9daf-c4e1ee7149aa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,17 +36,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="238">
+                <caret line="14" column="89" lean-forward="false" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/app.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <caret line="224" column="12" lean-forward="false" selection-start-line="224" selection-start-column="12" selection-end-line="224" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProgramadoresController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ProgramadoresController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controller/ProgramadoresController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -208,7 +223,6 @@
         <option value="$PROJECT_DIR$/src/Template/Analistas/view.ctp" />
         <option value="$PROJECT_DIR$/src/Template/Hobbies/index.ctp" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/config/routes.php" />
         <option value="$PROJECT_DIR$/src/Controller/DashboardController.php" />
         <option value="$PROJECT_DIR$/src/Controller/PagesController.php" />
@@ -228,6 +242,7 @@
         <option value="$PROJECT_DIR$/src/Controller/ProgramadoresController.php" />
         <option value="$PROJECT_DIR$/src/Controller/AnalistasController.php" />
         <option value="$PROJECT_DIR$/src/Controller/HobbiesController.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -612,7 +627,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="hobbiescontr&#9;null&#9;null&#10;app&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/config/app.php&#10;progtable&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Model/Table/ProgramadoresTable.php&#10;pro/index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Programadores/index.ctp&#10;analistasta&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Model/Table/AnalistasTable.php&#10;analistas/index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Analistas/index.ctp&#10;analistascontr&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Controller/AnalistasController.php&#10;prog/index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Programadores/index.ctp&#10;progr/index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Programadores/index.ctp&#10;programad&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Controller/ProgramadoresController.php&#10;appcontr&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Controller/AppController.php&#10;default&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Plugin/AdminLTE/Layout/default.ctp&#10;default.&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Layout/default.ctp&#10;appview&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/View/AppView.php&#10;route&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/config/routes.php&#10;pagescontro&#9;null&#9;null&#10;app.&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/config/app.php&#10;select&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/webroot/js/select2config.js&#10;script.js&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/vendor/maiconpinto/cakephp-adminlte-theme/webroot/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js&#10;readme.md&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/README.md&#10;default.ctp&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Plugin/AdminLTE/Layout/default.ctp&#10;home.ctp&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Pages/home.ctp&#10;hobbi/index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Hobbies/index.ctp&#10;progra&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Controller/ProgramadoresController.php&#10;prog/view&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/view.ctp&#10;prog/add&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/add.ctp&#10;analistastab&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Model/Table/AnalistasTable.php&#10;analis/view&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Analistas/view.ctp&#10;pro/inde&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/index.ctp&#10;anali/ind&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Analistas/index.ctp&#10;anali/edit&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Analistas/edit.ctp&#10;pro/edit&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/edit.ctp&#10;analis/add&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Analistas/add.ctp&#10;aside&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Plugin/AdminLTE/Element/aside-main-sidebar.ctp&#10;funcion&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Model/Table/FuncionariosTable.php&#10;appcon&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Controller/AppController.php&#10;bootstrap.php&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/config/bootstrap.php&#10;programadorestable&#9;null&#9;null&#10;progr/edit&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/edit.ctp&#10;view&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/vendor/maiconpinto/cakephp-adminlte-theme/src/Template/Bake/Template/view.ctp&#10;hobbiestab&#9;null&#9;null&#10;hobby&#9;null&#9;null&#10;funcionariostab&#9;null&#9;null&#10;programa/edit&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/edit.ctp&#10;adminlte.min.&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/vendor/maiconpinto/cakephp-adminlte-theme/webroot/css/AdminLTE.min.css&#10;composer&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/composer.json&#10;layou/default&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Layout/default.ctp&#10;routes.php&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/config/routes.php&#10;index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Hobbies/index.ctp&#10;programadoresco&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="app.&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/config/app.php&#10;hobbiescontr&#9;null&#9;null&#10;app&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/config/app.php&#10;progtable&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Model/Table/ProgramadoresTable.php&#10;pro/index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Programadores/index.ctp&#10;analistasta&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Model/Table/AnalistasTable.php&#10;analistas/index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Analistas/index.ctp&#10;analistascontr&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Controller/AnalistasController.php&#10;prog/index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Programadores/index.ctp&#10;progr/index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Programadores/index.ctp&#10;programad&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Controller/ProgramadoresController.php&#10;appcontr&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Controller/AppController.php&#10;default&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Plugin/AdminLTE/Layout/default.ctp&#10;default.&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/Template/Layout/default.ctp&#10;appview&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/src/View/AppView.php&#10;route&#9;FILE&#9;file://C:/xampp/htdocs/CRUD_funcionario_SPA/config/routes.php&#10;pagescontro&#9;null&#9;null&#10;select&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/webroot/js/select2config.js&#10;script.js&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/vendor/maiconpinto/cakephp-adminlte-theme/webroot/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js&#10;readme.md&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/README.md&#10;default.ctp&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Plugin/AdminLTE/Layout/default.ctp&#10;home.ctp&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Pages/home.ctp&#10;hobbi/index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Hobbies/index.ctp&#10;progra&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Controller/ProgramadoresController.php&#10;prog/view&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/view.ctp&#10;prog/add&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/add.ctp&#10;analistastab&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Model/Table/AnalistasTable.php&#10;analis/view&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Analistas/view.ctp&#10;pro/inde&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/index.ctp&#10;anali/ind&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Analistas/index.ctp&#10;anali/edit&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Analistas/edit.ctp&#10;pro/edit&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/edit.ctp&#10;analis/add&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Analistas/add.ctp&#10;aside&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Plugin/AdminLTE/Element/aside-main-sidebar.ctp&#10;funcion&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Model/Table/FuncionariosTable.php&#10;appcon&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Controller/AppController.php&#10;bootstrap.php&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/config/bootstrap.php&#10;programadorestable&#9;null&#9;null&#10;progr/edit&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/edit.ctp&#10;view&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/vendor/maiconpinto/cakephp-adminlte-theme/src/Template/Bake/Template/view.ctp&#10;hobbiestab&#9;null&#9;null&#10;hobby&#9;null&#9;null&#10;funcionariostab&#9;null&#9;null&#10;programa/edit&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Programadores/edit.ctp&#10;adminlte.min.&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/vendor/maiconpinto/cakephp-adminlte-theme/webroot/css/AdminLTE.min.css&#10;composer&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/composer.json&#10;layou/default&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Layout/default.ctp&#10;routes.php&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/config/routes.php&#10;index&#9;FILE&#9;file://C:/xampp/htdocs/CRUD funcionario/src/Template/Hobbies/index.ctp&#10;programadoresco&#9;null&#9;null" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
@@ -723,7 +738,7 @@
       <option name="presentableId" value="Default" />
       <updated>1506167657371</updated>
       <workItem from="1506167662086" duration="26427000" />
-      <workItem from="1506251954663" duration="17350000" />
+      <workItem from="1506251954663" duration="19078000" />
     </task>
     <task id="LOCAL-00001" summary="Removidas as restrições do .gitignore para possibilitar acesso total ao projeto. README.md atualizado">
       <created>1506194283345</created>
@@ -736,7 +751,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43777000" />
+    <option name="totallyTimeSpent" value="45505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="772" extended-state="0" />
@@ -974,17 +989,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Template/Programadores/add.ctp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
@@ -1133,14 +1137,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Template/Analistas/index.ctp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-544">
@@ -1190,6 +1186,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="174" column="23" lean-forward="false" selection-start-line="174" selection-start-column="23" selection-end-line="175" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="89" lean-forward="false" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="224" column="12" lean-forward="false" selection-start-line="224" selection-start-column="12" selection-end-line="224" selection-end-column="12" />
           <folding />
         </state>
       </provider>
